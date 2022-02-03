@@ -12,6 +12,7 @@
   "link e": "https://rubika.ir/",
   "email e": "nix.company.ap@gmail.com",
   "error img": "img",
+  "error email": "nix.company.ap@gmail.com",
   "error text": "متاسفانه برنامه با خطا مواجه شد
 
 برای رفع مشکل در بخش نظر سنجی مایکت مشکل برنامه رو اعلام کنید
